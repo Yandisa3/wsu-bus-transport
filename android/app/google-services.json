@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14381596520",
+    "project_id": "wsu-bus-transport",
+    "storage_bucket": "wsu-bus-transport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14381596520:android:3517e6568336cffe8b60dd",
+        "android_client_info": {
+          "package_name": "com.example.bus_transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-hyELRc_rOnZmkvNvNiizhcU8U4Eh30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
