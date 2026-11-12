@@ -68,3 +68,6 @@ secrets/
 
 # Local tooling
 node_modules/
+
+/firebase-before-hosting.backup
+/.firebase/
